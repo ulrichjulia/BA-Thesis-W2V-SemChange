@@ -5,10 +5,10 @@ The topic of the thesis was a diachronic comparison of word embeddings to invest
 
 **Docstrings** within the scripts explain what each function does.
 
-For the code to work properly, one needs to create some folders within folders with the following structures:
+For the code to work properly, one needs to create some folders within folders with the following structures:<br/>
 CWD:<br/>
 --- Data<br/>
-  ---- Internet<br/>
+<space>---- Internet<br/>
     ----- _Subcorpus_<br/>
       ------ _Year_<br/>
             *file*<br/>
