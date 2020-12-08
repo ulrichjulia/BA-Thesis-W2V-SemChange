@@ -7,16 +7,16 @@ The topic of the thesis was a diachronic comparison of word embeddings to invest
 
 For the code to work properly, one needs to create some folders within folders with the following structures:
 CWD:
->> Data
-  >>> Internet
-    >>>> _Subcorpus_
-      >>>>> _Year_
+--- Data
+  ---- Internet
+    ----- _Subcorpus_
+      ------ _Year_
             *file*
             …
       …
-  >>> Offline
-    >>>> _Subcorpus_
-      >>>>> _Year_
+  ---- Offline
+    ----- _Subcorpus_
+      ------ _Year_
             *file*
             …
       …
