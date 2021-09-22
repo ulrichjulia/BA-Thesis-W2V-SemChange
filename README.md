@@ -21,6 +21,6 @@ CWD:<br/>
       -------…<br/>
       ------…<br/>
  
-Have fun reasearching! :)
+Have fun researching! :)
 
 _*Julia Ulrich, 08.12.2020*_
